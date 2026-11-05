@@ -1,0 +1,19 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+solc = "0.8.28"
+evm_version = "cancun"        # needed for transient storage (EIP-1153) used by the reentrancy guard
+optimizer = true
+optimizer_runs = 200
+fs_permissions = [
+  { access = "read-write", path = "./backtest/results" },
+  { access = "read", path = "./backtest/data" },
+  { access = "read-write", path = "./deployments" },
+]
+
+[fuzz]
+runs = 256
+
+[rpc_endpoints]
+mainnet = "${ETH_RPC_URL}"

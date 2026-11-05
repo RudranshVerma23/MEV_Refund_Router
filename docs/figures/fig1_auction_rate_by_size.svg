@@ -1,0 +1,32 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='640' height='360' viewBox='0 0 640 360' role='img'>
+<rect width='100%' height='100%' fill='#fcfcfb'/>
+<text x='24.0' y='30.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='16' fill='#0b0b0b' text-anchor='start' font-weight='600'>Share of user swaps worth auctioning, by swap size</text>
+<text x='24.0' y='50.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='start' font-weight='400'>Arbitrage created by the swap exceeds the gas of a settle() transaction (2024 sample, n = 1,000)</text>
+<line x1='70.0' y1='300.0' x2='610.0' y2='300.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='304.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>0%</text>
+<line x1='70.0' y1='245.0' x2='610.0' y2='245.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='249.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>25%</text>
+<line x1='70.0' y1='190.0' x2='610.0' y2='190.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='194.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>50%</text>
+<line x1='70.0' y1='135.0' x2='610.0' y2='135.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='139.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>75%</text>
+<line x1='70.0' y1='80.0' x2='610.0' y2='80.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='84.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>100%</text>
+<text x='124.0' y='294.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='middle' font-weight='400'>0.0%</text>
+<text x='124.0' y='318.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400'>&lt; $1k</text>
+<text x='124.0' y='333.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='10' fill='#8a8984' text-anchor='middle' font-weight='400'>n = 100</text>
+<text x='232.0' y='294.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='middle' font-weight='400'>0.0%</text>
+<text x='232.0' y='318.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400'>$1k–10k</text>
+<text x='232.0' y='333.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='10' fill='#8a8984' text-anchor='middle' font-weight='400'>n = 150</text>
+<text x='340.0' y='294.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='middle' font-weight='400'>0.0%</text>
+<text x='340.0' y='318.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400'>$10k–50k</text>
+<text x='340.0' y='333.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='10' fill='#8a8984' text-anchor='middle' font-weight='400'>n = 250</text>
+<path d='M415.6,300.0 V298.4 Q415.6,294.4 419.6,294.4 H476.4 Q480.4,294.4 480.4,298.4 V300.0 Z' fill='#2a78d6'/>
+<text x='448.0' y='288.4' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='middle' font-weight='400'>2.6%</text>
+<text x='448.0' y='318.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400'>$50k–250k</text>
+<text x='448.0' y='333.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='10' fill='#8a8984' text-anchor='middle' font-weight='400'>n = 470</text>
+<path d='M523.6,300.0 V113.3 Q523.6,109.3 527.6,109.3 H584.4 Q588.4,109.3 588.4,113.3 V300.0 Z' fill='#2a78d6'/>
+<text x='556.0' y='103.3' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='middle' font-weight='400'>86.7%</text>
+<text x='556.0' y='318.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400'>≥ $250k</text>
+<text x='556.0' y='333.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='10' fill='#8a8984' text-anchor='middle' font-weight='400'>n = 30</text>
+</svg>

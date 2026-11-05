@@ -1,0 +1,16 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='640' height='280' viewBox='0 0 640 280' role='img'>
+<rect width='100%' height='100%' fill='#fcfcfb'/>
+<text x='24.0' y='30.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='16' fill='#0b0b0b' text-anchor='start' font-weight='600'>Execution gas per path (median, mainnet fork)</text>
+<text x='24.0' y='50.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='start' font-weight='400'>Excludes the 21,000 intrinsic gas and calldata of a real transaction</text>
+<text x='280.0' y='95.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400'>plain pair swap</text>
+<path d='M290.0,80.0 H408.8 Q412.8,80.0 412.8,84.0 V98.0 Q412.8,102.0 408.8,102.0 H290.0 Z' fill='#2a78d6'/>
+<text x='418.8' y='95.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='start' font-weight='400'>145,312</text>
+<text x='280.0' y='151.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400'>router fill() (no backrun)</text>
+<path d='M290.0,136.0 H436.8 Q440.8,136.0 440.8,140.0 V154.0 Q440.8,158.0 436.8,158.0 H290.0 Z' fill='#2a78d6'/>
+<text x='446.8' y='151.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='start' font-weight='400'>178,508</text>
+<text x='290.0' y='174.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='10' fill='#8a8984' text-anchor='start' font-weight='400'>+33,196 overhead</text>
+<text x='280.0' y='207.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400'>router settle() (swap + backrun + refund)</text>
+<path d='M290.0,192.0 H586.0 Q590.0,192.0 590.0,196.0 V210.0 Q590.0,214.0 586.0,214.0 H290.0 Z' fill='#2a78d6'/>
+<text x='596.0' y='207.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='start' font-weight='400'>355,058</text>
+<text x='290.0' y='230.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='10' fill='#8a8984' text-anchor='start' font-weight='400'>+176,550 backrun &amp; payment</text>
+</svg>

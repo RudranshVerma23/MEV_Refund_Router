@@ -1,0 +1,25 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='640' height='360' viewBox='0 0 640 360' role='img'>
+<rect width='100%' height='100%' fill='#fcfcfb'/>
+<text x='24.0' y='30.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='16' fill='#0b0b0b' text-anchor='start' font-weight='600'>Refunds are concentrated in a few very large swaps</text>
+<text x='24.0' y='50.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='start' font-weight='400'>Cumulative share of total refunds vs number of top swaps (38 auctioned swaps, ranked)</text>
+<line x1='70.0' y1='300.0' x2='600.0' y2='300.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='304.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>0%</text>
+<line x1='70.0' y1='245.0' x2='600.0' y2='245.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='249.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>25%</text>
+<line x1='70.0' y1='190.0' x2='600.0' y2='190.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='194.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>50%</text>
+<line x1='70.0' y1='135.0' x2='600.0' y2='135.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='139.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>75%</text>
+<line x1='70.0' y1='80.0' x2='600.0' y2='80.0' stroke='#e6e5e1' stroke-width='1'/>
+<text x='62.0' y='84.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='end' font-weight='400'>100%</text>
+<text x='70.0' y='318.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='middle' font-weight='400'>0</text>
+<text x='209.5' y='318.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='middle' font-weight='400'>10</text>
+<text x='348.9' y='318.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='middle' font-weight='400'>20</text>
+<text x='488.4' y='318.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#8a8984' text-anchor='middle' font-weight='400'>30</text>
+<text x='335.0' y='338.0' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400'>top N swaps</text>
+<polyline points='70.0,300.0 83.9,182.3 97.9,144.9 111.8,126.6 125.8,113.8 139.7,102.8 153.7,99.9 167.6,97.3 181.6,95.2 195.5,93.2 209.5,91.2 223.4,89.5 237.4,88.2 251.3,86.9 265.3,86.1 279.2,85.6 293.2,85.1 307.1,84.6 321.1,84.1 335.0,83.7 348.9,83.3 362.9,82.9 376.8,82.5 390.8,82.2 404.7,81.9 418.7,81.6 432.6,81.3 446.6,81.1 460.5,80.9 474.5,80.7 488.4,80.5 502.4,80.4 516.3,80.3 530.3,80.2 544.2,80.1 558.2,80.1 572.1,80.1 586.1,80.0 600.0,80.0' fill='none' stroke='#2a78d6' stroke-width='2' stroke-linejoin='round'/>
+<circle cx='83.9' cy='182.3' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='91.9' y='196.3' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='start' font-weight='400'>top 1: 53%</text>
+<circle cx='111.8' cy='126.6' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='119.8' y='140.6' font-family='Inter, Segoe UI, Helvetica, Arial, sans-serif' font-size='11' fill='#0b0b0b' text-anchor='start' font-weight='400'>top 3: 79%</text>
+</svg>

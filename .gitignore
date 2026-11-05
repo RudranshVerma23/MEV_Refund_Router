@@ -1,0 +1,13 @@
+out/
+cache/
+broadcast/
+.env
+__pycache__/
+*.pyc
+backtest/data/*
+!backtest/data/.gitkeep
+backtest/results/*
+!backtest/results/.gitkeep
+deployments/*
+!deployments/.gitkeep
+offchain/logs/

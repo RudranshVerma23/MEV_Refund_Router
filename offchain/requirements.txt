@@ -1,0 +1,2 @@
+# No third-party packages are needed: the backtest uses urllib for JSON-RPC, and the auctioneer
+# and searcher bots use Foundry's `cast` (installed with Foundry) for calls, transactions and signing.
