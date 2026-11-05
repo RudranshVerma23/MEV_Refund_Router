@@ -134,23 +134,5 @@ Gas is execution gas measured around each call, with every touched account reset
 | Plain fills only by the auctioneer or the user | `test_fill_onlyAuctioneerOrUser` |
 | Router output equals a plain swap's output | `test_replay_*` (and checked on every fork replay) |
 
-## Status
-
-- [x] Router, executor and tests (15 Solidity tests, 15 Python tests)
-- [x] Off-chain auctioneer service and searcher bots; end-to-end demo on a mainnet fork
-- [x] Backtest: 1,000 user swaps from 2024, replayed on forked mainnet
-- [x] Write-up (`docs/REPORT.md`): results, gas incidence, incentive compatibility, limitations
-
-Future work (see the report, section 8): choosing the winner on-chain from searcher-signed bids;
-Uniswap V3 and multi-hop arbitrage; a flash-swap executor; calibrating the bid model from real
-backruns; bonds against griefing; Permit2.
-
-## Known limitations of version 1
-
-- One V2 pool per order; the bid is in WETH only.
-- The auctioneer is trusted for matching and liveness (not for funds or refunds).
-- `run_fork_replays.py` with several workers appends to one CSV; `analyze.py` skips malformed lines.
-- The arbitrage is measured between two pools only, so it is a **lower bound** on real MEV
-  (real searchers also use other pools and centralized exchanges).
-- The baseline "plain swap" calls the pair directly, which is cheaper than going through
-  Uniswap's Router02, so the router overhead reported here is an upper bound.
+## Author
+This work is done by [Rudransh Verma](https://github.com/RudranshVerma23) and [Suryansh Verma](https://github.com/sury666) for CS731 course project.
