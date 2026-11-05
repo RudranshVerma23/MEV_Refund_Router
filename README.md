@@ -1,4 +1,4 @@
-# MEV-refunding backrun router (project C3)
+# MEV-refunding backrun router
 
 A router that runs a user's swap and an **auctioned backrun in the same transaction**, enforces
 the winner's payment on-chain and refunds part of it to the user. It is evaluated by replaying
