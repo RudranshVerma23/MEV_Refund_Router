@@ -57,7 +57,6 @@ offchain/
 docs/
   REPORT.md                      the write-up: design, results, gas incidence, incentive compatibility
   figures/                       figures used in the report
-  ethereum_for_C3_study_guide.md background notes for the project
 ```
 
 ## Setup
